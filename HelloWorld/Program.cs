@@ -8,7 +8,7 @@
              Console.Write("Anna luku: ");
             int luku = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("\n" + luku + luku + luku + luku + luku);
+            Console.WriteLine("\n" + luku + luku + luku + luku );
             Console.WriteLine(luku + " " + luku + " " + luku);
             Console.WriteLine("" + luku + luku + luku + luku + luku);
 
